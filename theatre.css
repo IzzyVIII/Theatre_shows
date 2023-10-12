@@ -1,0 +1,15 @@
+*/*{
+    border: 1px solid;
+}*/
+
+.navbar-brand {
+    color: white
+}
+.navbar {
+    color: white;
+    background-color: black;
+}
+
+.Date {
+    color: black;
+}
